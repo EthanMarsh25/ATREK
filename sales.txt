@@ -1,0 +1,45 @@
+Customer Name: Ethan Marsh
+Hawaiian Pizza x3  Cost: £30
+Margherita Pizza x2  Cost £20
+Garlic Pizza x1 Cost: £10
+Sale Amount: £60
+
+Customer Name: Robert Johnson
+Hawaiian Pizza x7  Cost: £70
+Sale Amount: £70
+
+Customer Name: Peter Jackson
+Hawaiian Pizza x2  Cost: £20
+Chicken Pizza x1  Cost: £10
+Garlic Pizza x1 Cost: £10
+Sale Amount: £40
+
+Customer Name: Jack Smith
+Pepperoni Pizza x1  Cost: £10
+Sale Amount: £10
+
+Customer Name: Jake Smith
+Hawaiian Pizza x1  Cost: £10
+Sale Amount: £10
+
+Customer Name: Paul Craig
+Pepperoni Pizza x1  Cost: £10
+Hawaiian Pizza x1  Cost: £10
+Margherita Pizza x1  Cost £10
+Chicken Pizza x1  Cost: £10
+Garlic Pizza x1 Cost: £10
+Sale Amount: £50
+
+Customer Name: John Cena
+Hawaiian Pizza x3  Cost: £30
+Chicken Pizza x1  Cost: £10
+Garlic Pizza x1 Cost: £10
+Sale Amount: £50
+
+Customer Name: Ethan Marsh
+Margherita Pizza x1  Cost £10
+Sale Amount: £10
+
+
+
+

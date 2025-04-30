@@ -1,0 +1,380 @@
+Sausage x1  Cost: £3
+Basil x3  Cost: £3
+Total Cost: £6
+
+Sausage x2  Cost: £6
+Total Cost: £6
+
+Sausage x3  Cost: £9
+Ham x2  Cost: £8
+Total Cost: £17
+
+Sausage x1  Cost: £3
+Basil x1  Cost: £3
+Tomatoes x1  Cost: £3
+Chicken Breast x1  Cost: £5
+Total Cost: £14
+
+Flour x2  Cost: £10
+Olive oil x2  Cost: £8
+Sausage x3  Cost: £9
+Basil x4  Cost: £9
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x10  Cost: £40
+Total Cost: £486
+
+Flour x1  Cost: £5
+Olive oil x2  Cost: £8
+Sausage x6  Cost: £18
+Basil x4  Cost: £18
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x10  Cost: £40
+Total Cost: £499
+
+Flour x1  Cost: £5
+Olive oil x2  Cost: £8
+Sausage x9  Cost: £27
+Basil x4  Cost: £27
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x10  Cost: £40
+Total Cost: £517
+
+Flour x1  Cost: £5
+Olive oil x2  Cost: £8
+Sausage x9  Cost: £27
+Basil x4  Cost: £27
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x10  Cost: £50
+Mozzarella x10  Cost: £40
+Total Cost: £522
+
+Flour x1  Cost: £5
+Olive oil x2  Cost: £8
+Sausage x9  Cost: £27
+Basil x4  Cost: £27
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x10  Cost: £50
+Mozzarella x11  Cost: £44
+Total Cost: £526
+
+Flour x1  Cost: £5
+Olive oil x2  Cost: £8
+Sausage x9  Cost: £27
+Basil x4  Cost: £27
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x10  Cost: £50
+Mozzarella x13  Cost: £52
+Total Cost: £534
+
+Flour x1  Cost: £5
+Olive oil x2  Cost: £8
+Sausage x13  Cost: £39
+Basil x4  Cost: £39
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x10  Cost: £50
+Mozzarella x13  Cost: £52
+Total Cost: £558
+
+Flour x1  Cost: £5
+Olive oil x2  Cost: £8
+Sausage x3  Cost: £9
+Basil x4  Cost: £9
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x11  Cost: £44
+Total Cost: £485
+
+Flour x1  Cost: £5
+Olive oil x2  Cost: £8
+Sausage x4  Cost: £12
+Basil x4  Cost: £12
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x11  Cost: £44
+Total Cost: £491
+
+Flour x1  Cost: £5
+Olive oil x3  Cost: £12
+Sausage x4  Cost: £12
+Basil x4  Cost: £12
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x11  Cost: £44
+Total Cost: £495
+
+Flour x1  Cost: £5
+Olive oil x3  Cost: £12
+Sausage x5  Cost: £15
+Basil x4  Cost: £15
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x11  Cost: £44
+Total Cost: £501
+
+Flour x1  Cost: £5
+Olive oil x3  Cost: £12
+Sausage x5  Cost: £15
+Basil x5  Cost: £15
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x11  Cost: £44
+Total Cost: £501
+
+Flour x1  Cost: £5
+Olive oil x3  Cost: £12
+Sausage x5  Cost: £15
+Basil x6  Cost: £15
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x11  Cost: £44
+Total Cost: £501
+
+Flour x1  Cost: £5
+Olive oil x3  Cost: £12
+Sausage x5  Cost: £15
+Basil x6  Cost: £15
+Tomatoes x6  Cost: £18
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x11  Cost: £44
+Total Cost: £504
+
+Flour x1  Cost: £5
+Olive oil x3  Cost: £12
+Sausage x6  Cost: £18
+Basil x6  Cost: £18
+Tomatoes x6  Cost: £18
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x11  Cost: £44
+Total Cost: £510
+
+Flour x1  Cost: £5
+Olive oil x4  Cost: £16
+Sausage x6  Cost: £18
+Basil x6  Cost: £18
+Tomatoes x6  Cost: £18
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x11  Cost: £44
+Total Cost: £514
+
+Flour x2  Cost: £10
+Olive oil x5  Cost: £20
+Sausage x6  Cost: £18
+Basil x6  Cost: £18
+Tomatoes x6  Cost: £18
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x11  Cost: £44
+Total Cost: £523
+
+Flour x3  Cost: £15
+Olive oil x6  Cost: £24
+Sausage x7  Cost: £21
+Basil x6  Cost: £21
+Tomatoes x6  Cost: £18
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x11  Cost: £44
+Total Cost: £538
+
+Flour x3  Cost: £15
+Olive oil x6  Cost: £24
+Sausage x7  Cost: £21
+Basil x6  Cost: £21
+Tomatoes x6  Cost: £18
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x9  Cost: £36
+Chicken Breast x9  Cost: £45
+Mozzarella x11  Cost: £44
+Total Cost: £542
+
+Flour x3  Cost: £15
+Olive oil x6  Cost: £24
+Sausage x7  Cost: £21
+Basil x6  Cost: £21
+Tomatoes x6  Cost: £18
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x9  Cost: £36
+Chicken Breast x10  Cost: £50
+Mozzarella x11  Cost: £44
+Total Cost: £547
+
+Flour x3  Cost: £15
+Olive oil x6  Cost: £24
+Sausage x8  Cost: £24
+Basil x6  Cost: £24
+Tomatoes x6  Cost: £18
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x9  Cost: £36
+Chicken Breast x10  Cost: £50
+Mozzarella x11  Cost: £44
+Total Cost: £553
+
+Flour x4  Cost: £20
+Olive oil x6  Cost: £24
+Sausage x8  Cost: £24
+Basil x6  Cost: £24
+Tomatoes x6  Cost: £18
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x10  Cost: £40
+Chicken Breast x10  Cost: £50
+Mozzarella x11  Cost: £44
+Total Cost: £562
+
+Flour x4  Cost: £20
+Olive oil x6  Cost: £24
+Sausage x9  Cost: £27
+Basil x6  Cost: £27
+Tomatoes x6  Cost: £18
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x10  Cost: £40
+Chicken Breast x10  Cost: £50
+Mozzarella x11  Cost: £44
+Total Cost: £568
+
+Flour x4  Cost: £20
+Olive oil x6  Cost: £24
+Sausage x10  Cost: £30
+Basil x6  Cost: £30
+Tomatoes x6  Cost: £18
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x10  Cost: £40
+Chicken Breast x10  Cost: £50
+Mozzarella x11  Cost: £44
+Total Cost: £574
+
+Flour x2  Cost: £10
+Olive oil x2  Cost: £8
+Sausage x3  Cost: £9
+Basil x4  Cost: £9
+Tomatoes x5  Cost: £15
+Garlic Stock x6  Cost: £18
+Pineapple x100  Cost: £300
+Ham x8  Cost: £32
+Chicken Breast x9  Cost: £45
+Mozzarella x10  Cost: £40
+Total Cost: £486
+
+Sausage x1  Cost: £3
+Mozzarella x0  Cost: £0
+Total Cost: £3
+
+Sausage x1  Cost: £3
+Total Cost: £3
+
+Basil x1  Cost: £3
+Total Cost: £3
+
+Ham x1  Cost: £4
+Total Cost: £4
+
+Tomatoes x1  Cost: £3
+Total Cost: £3
+
+Sausage x1  Cost: £3
+Total Cost: £3
+
+Chicken Breast x1  Cost: £5
+Total Cost: £5
+
+Ham x1  Cost: £4
+Total Cost: £4
+
+Mozzarella x1  Cost: £4
+Total Cost: £4
+
+Ham x1  Cost: £4
+Total Cost: £4
+
+Olive oil x1  Cost: £4
+Total Cost: £4
+
+Flour x1  Cost: £5
+Total Cost: £5
+
+Tomatoes x1  Cost: £3
+Total Cost: £3
+
+Mozzarella x1  Cost: £4
+Total Cost: £4
+
+Garlic Stock x1  Cost: £3
+Pineapple x1  Cost: £3
+Ham x1  Cost: £4
+Chicken Breast x2  Cost: £10
+Mozzarella x2  Cost: £8
+Total Cost: £28
+
+Sausage x1  Cost: £3
+Total Cost: £3
+
+Sausage x1  Cost: £3
+Total Cost: £3
+
+Sausage x1  Cost: £3
+Basil x1  Cost: £3
+Total Cost: £6
+
+Sausage x1  Cost: £3
+Total Cost: £3
+
